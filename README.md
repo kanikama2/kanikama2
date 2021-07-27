@@ -8,6 +8,6 @@
 
 I'm a very young padawan, but if you need me I will be there
 
-<img width="250px" src="https://media.giphy.com/media/M6i12SBUEv09a/giphy.gif" /> 
+<img src="https://media.giphy.com/media/ArrVyXcjSzzxe/giphy.gif" /> 
 
 </div>
