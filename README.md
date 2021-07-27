@@ -11,3 +11,7 @@ I'm a very young padawan, but if you need me I will be there
 <img src="https://media.giphy.com/media/ArrVyXcjSzzxe/giphy.gif" /> 
 
 </div>
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kanikama2&label=Profile%20views&color=0e75b6&style=flat" alt="kanikama2" /> </p>
