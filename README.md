@@ -1,6 +1,6 @@
 <div align="center"><img width="250px" src="https://media.giphy.com/media/2W7E1aS87BHsXEiwWq/giphy.gif" /></div>
 
-<h1 align="center">Hi 👋, I'm Ariel</h1>
+<h1 align="center">Hi 👋, this is Ariel</h1>
 <h3 align="center"><i>Live as if you were to die tomorrow. Learn as if you were to live forever.</i></h3>
 
 <br />
